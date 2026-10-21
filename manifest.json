@@ -1,0 +1,17 @@
+{
+    "name": "Rhythm Tengoku Archipelago",
+    "game_name": "Rhythm Tengoku",
+    "package_version": "1.0.0",
+    "package_uid": "rhythm_tengoku_ap",
+    "author": "M.",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "versions_url": "https://raw.githubusercontent.com/Michpem/rhythm-tengoku-ap-poptracker/refs/heads/master/versions.json",
+    "min_poptracker_version": "0.35.4"
+}

@@ -1,0 +1,456 @@
+[
+    {
+        "name": "Medals",
+        "type": "consumable",
+        "img": "images/items/medal.png",
+        "min_quantity": 0,
+        "max_quantity": 40,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 16,
+        "overlay_background": "#A0000000",
+        "codes": "medal"
+    },
+    {
+        "name": "Remix 1 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_1_bundle.png",
+        "codes": "remix_1_bundle"
+    },
+    {
+        "name": "Remix 2 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_2_bundle.png",
+        "codes": "remix_2_bundle"
+    },
+    {
+        "name": "Remix 3 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_3_bundle.png",
+        "codes": "remix_3_bundle"
+    },
+    {
+        "name": "Remix 4 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_4_bundle.png",
+        "codes": "remix_4_bundle"
+    },
+    {
+        "name": "Remix 5 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_5_bundle.png",
+        "codes": "remix_5_bundle"
+    },
+    {
+        "name": "Remix 6 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_6_bundle.png",
+        "codes": "remix_6_bundle"
+    },
+    {
+        "name": "Remix 7 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_7_bundle.png",
+        "codes": "remix_7_bundle"
+    },
+    {
+        "name": "Remix 8 Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_8_bundle.png",
+        "codes": "remix_8_bundle"
+    },
+    {
+        "name": "Remix 1 Tempo Up Bundle",
+        "type": "toggle",
+        "img": "images/items/remix_1_tempo_up_bundle.png",
+        "codes": "tempo_up"
+    },
+    {
+        "name": "Karate Man Stage",
+        "type": "toggle",
+        "img": "images/items/karate_man_stage.png",
+        "codes": "karate_man_stage"
+    },
+    {
+        "name": "Karate Man 2 Stage",
+        "type": "toggle",
+        "img": "images/items/karate_man_2_stage.png",
+        "codes": "karate_man_2_stage"
+    },
+    {
+        "name": "Karate Man Stage Tempo Up",
+        "type": "toggle",
+        "img": "images/items/karate_man_stage_tempo_up.png",
+        "codes": "karate_man_stage_tempo_up"
+    },
+    {
+        "name": "The Clappy Trio Stage",
+        "type": "toggle",
+        "img": "images/items/the_clappy_trio_stage.png",
+        "codes": "the_clappy_trio_stage"
+    },
+    {
+        "name": "The Snappy Trio Stage",
+        "type": "toggle",
+        "img": "images/items/the_snappy_trio_stage.png",
+        "codes": "the_snappy_trio_stage"
+    },
+    {
+        "name": "The Clappy Trio Stage Tempo Up",
+        "type": "toggle",
+        "img": "images/items/the_clappy_trio_stage_tempo_up.png",
+        "codes": "the_clappy_trio_stage_tempo_up"
+    },
+    {
+        "name": "Polyrhythm Stage",
+        "type": "toggle",
+        "img": "images/items/polyrhythm_stage.png",
+        "codes": "polyrhythm_stage"
+    },
+    {
+        "name": "Polyrhythm 2 Stage",
+        "type": "toggle",
+        "img": "images/items/polyrhythm_2_stage.png",
+        "codes": "polyrhythm_2_stage"
+    },
+    {
+        "name": "Night Walk Stage",
+        "type": "toggle",
+        "img": "images/items/night_walk_stage.png",
+        "codes": "night_walk_stage"
+    },
+    {
+        "name": "Night Walk 2 Stage",
+        "type": "toggle",
+        "img": "images/items/night_walk_2_stage.png",
+        "codes": "night_walk_2_stage"
+    },
+    {
+        "name": "Rhythm Tweezers Stage",
+        "type": "toggle",
+        "img": "images/items/rhythm_tweezers_stage.png",
+        "codes": "rhythm_tweezers_stage"
+    },
+    {
+        "name": "Rhythm Tweezers 2 Stage",
+        "type": "toggle",
+        "img": "images/items/rhythm_tweezers_2_stage.png",
+        "codes": "rhythm_tweezers_2_stage"
+    },
+    {
+        "name": "Rhythm Tweezers Stage Tempo up",
+        "type": "toggle",
+        "img": "images/items/rhythm_tweezers_stage_tempo_up.png",
+        "codes": "rhythm_tweezers_stage_tempo_up"
+    },
+    {
+        "name": "Sick Beats Stage",
+        "type": "toggle",
+        "img": "images/items/sick_beats_stage.png",
+        "codes": "sick_beats_stage"
+    },
+    {
+        "name": "Bouncy Road Stage",
+        "type": "toggle",
+        "img": "images/items/bouncy_road_stage.png",
+        "codes": "bouncy_road_stage"
+    },
+    {
+        "name": "Bouncy Road 2 Stage",
+        "type": "toggle",
+        "img": "images/items/bouncy_road_2_stage.png",
+        "codes": "bouncy_road_2_stage"
+    },
+    {
+        "name": "Ninja Bodyguard Stage",
+        "type": "toggle",
+        "img": "images/items/ninja_bodyguard_stage.png",
+        "codes": "ninja_bodyguard_stage"
+    },
+    {
+        "name": "Ninja Descendant Stage",
+        "type": "toggle",
+        "img": "images/items/ninja_descendant_stage.png",
+        "codes": "ninja_descendant_stage"
+    },
+    {
+        "name": "Sneaky Spirits Stage",
+        "type": "toggle",
+        "img": "images/items/sneaky_spirits_stage.png",
+        "codes": "sneaky_spirits_stage"
+    },
+    {
+        "name": "Sneaky Spirits 2 Stage",
+        "type": "toggle",
+        "img": "images/items/sneaky_spirits_2_stage.png",
+        "codes": "sneaky_spirits_2_stage"
+    },
+    {
+        "name": "Samurai Slice Stage",
+        "type": "toggle",
+        "img": "images/items/samurai_slice_stage.png",
+        "codes": "samurai_slice_stage"
+    },
+    {
+        "name": "Spaceball Stage",
+        "type": "toggle",
+        "img": "images/items/spaceball_stage.png",
+        "codes": "spaceball_stage"
+    },
+    {
+        "name": "Spaceball 2 Stage",
+        "type": "toggle",
+        "img": "images/items/spaceball_2_stage.png",
+        "codes": "spaceball_2_stage"
+    },
+    {
+        "name": "Spaceball Stage Tempo Up",
+        "type": "toggle",
+        "img": "images/items/spaceball_stage_tempo_up.png",
+        "codes": "spaceball_stage_tempo_up"
+    },
+    {
+        "name": "Tap Trial Stage",
+        "type": "toggle",
+        "img": "images/items/tap_trial_stage.png",
+        "codes": "tap_trial_stage"
+    },
+    {
+        "name": "Tap Trial 2 Stage",
+        "type": "toggle",
+        "img": "images/items/tap_trial_2_stage.png",
+        "codes": "tap_trial_2_stage"
+    },
+    {
+        "name": "Marching Orders Stage",
+        "type": "toggle",
+        "img": "images/items/marching_orders_stage.png",
+        "codes": "marching_orders_stage"
+    },
+    {
+        "name": "Marching Orders 2 Stage",
+        "type": "toggle",
+        "img": "images/items/marching_orders_2_stage.png",
+        "codes": "marching_orders_2_stage"
+    },
+    {
+        "name": "Marching Orders Stage Tempo Up",
+        "type": "toggle",
+        "img": "images/items/marching_orders_stage_tempo_up.png",
+        "codes": "marching_orders_stage_tempo_up"
+    },
+    {
+        "name": "Wizards Waltz Stage",
+        "type": "toggle",
+        "img": "images/items/wizards_waltz_stage.png",
+        "codes": "wizards_waltz_stage"
+    },
+    {
+        "name": "Bunny Hop Stage",
+        "type": "toggle",
+        "img": "images/items/bunny_hop_stage.png",
+        "codes": "bunny_hop_stage"
+    },
+    {
+        "name": "Fireworks Stage",
+        "type": "toggle",
+        "img": "images/items/fireworks_stage.png",
+        "codes": "fireworks_stage"
+    },
+    {
+        "name": "Power Calligraphy Stage",
+        "type": "toggle",
+        "img": "images/items/power_calligraphy_stage.png",
+        "codes": "power_calligraphy_stage"
+    },
+    {
+        "name": "Toss Team Stage",
+        "type": "toggle",
+        "img": "images/items/toss_team_stage.png",
+        "codes": "toss_team_stage"
+    },
+    {
+        "name": "Toss Team 2 Stage",
+        "type": "toggle",
+        "img": "images/items/toss_team_2_stage.png",
+        "codes": "toss_team_2_stage"
+    },
+    {
+        "name": "Rat Race Stage",
+        "type": "toggle",
+        "img": "images/items/rat_race_stage.png",
+        "codes": "rat_race_stage"
+    },
+    {
+        "name": "Tram & Pauline Stage",
+        "type": "toggle",
+        "img": "images/items/tram_&_pauline_stage.png",
+        "codes": "tram_&_pauline_stage"
+    },
+    {
+        "name": "Showtime Stage",
+        "type": "toggle",
+        "img": "images/items/showtime_stage.png",
+        "codes": "showtime_stage"
+    },
+    {
+        "name": "Space Dance Stage",
+        "type": "toggle",
+        "img": "images/items/space_dance_stage.png",
+        "codes": "space_dance_stage"
+    },
+    {
+        "name": "Cosmic Dance Stage",
+        "type": "toggle",
+        "img": "images/items/cosmic_dance_stage.png",
+        "codes": "cosmic_dance_stage"
+    },
+    {
+        "name": "Rapmen Stage",
+        "type": "toggle",
+        "img": "images/items/rapmen_stage.png",
+        "codes": "rapmen_stage"
+    },
+    {
+        "name": "Rapwomen Stage",
+        "type": "toggle",
+        "img": "images/items/rapwomen_stage.png",
+        "codes": "rapwomen_stage"
+    },
+    {
+        "name": "Quiz Show Stage",
+        "type": "toggle",
+        "img": "images/items/quiz_show_stage.png",
+        "codes": "quiz_show_stage"
+    },
+    {
+        "name": "The Bon Odori Stage",
+        "type": "toggle",
+        "img": "images/items/the_bon_odori_stage.png",
+        "codes": "the_bon_odori_stage"
+    },
+    {
+        "name": "The Bon Dance Stage",
+        "type": "toggle",
+        "img": "images/items/the_bon_dance_stage.png",
+        "codes": "the_bon_dance_stage"
+    },
+    {
+        "name": "Remix 1 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_1_stage.png",
+        "codes": "remix_1_stage"
+    },
+    {
+        "name": "Remix 1 Stage Tempo Up",
+        "type": "toggle",
+        "img": "images/items/remix_1_stage_tempo_up.png",
+        "codes": "remix_1_stage_tempo_up"
+    },
+    {
+        "name": "Remix 2 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_2_stage.png",
+        "codes": "remix_2_stage"
+    },
+    {
+        "name": "Remix 3 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_3_stage.png",
+        "codes": "remix_3_stage"
+    },
+    {
+        "name": "Remix 4 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_4_stage.png",
+        "codes": "remix_4_stage"
+    },
+    {
+        "name": "Remix 5 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_5_stage.png",
+        "codes": "remix_5_stage"
+    },
+    {
+        "name": "Remix 6 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_6_stage.png",
+        "codes": "remix_6_stage"
+    },
+    {
+        "name": "Remix 7 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_7_stage.png",
+        "codes": "remix_7_stage"
+    },
+    {
+        "name": "Remix 8 Stage",
+        "type": "toggle",
+        "img": "images/items/remix_8_stage.png",
+        "codes": "remix_8_stage"
+    },
+    {
+        "name": "Beeps",
+        "type": "consumable",
+        "img": "images/items/beep.png",
+        "min_quantity": 0,
+        "max_quantity": 300,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 16,
+        "overlay_background": "#A0000000",
+        "codes": "beep"
+    },
+    {
+        "name": "GO Mode",
+        "type": "toggle",
+        "img": "images/items/go_mode.png",
+        "codes": "go_mode"
+    },
+    {
+        "name": "Medals in Pool",
+        "type": "consumable",
+        "img": "images/settings/medals.png",
+        "min_quantity": 0,
+        "max_quantity": 40,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 24,
+        "overlay_background": "#A0000000",
+        "codes": "medals_in_pool"
+    },
+    {
+        "name": "Medals Required",
+        "type": "consumable",
+        "img": "images/settings/medals_required.png",
+        "min_quantity": 0,
+        "max_quantity": 40,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 24,
+        "overlay_background": "#A0000000",
+        "codes": "required_medals"
+    },
+    {
+        "name": "Enable Superbs",
+        "type": "toggle",
+        "img": "images/settings/superbs.png",
+        "codes": "superbs"
+    },
+    {
+        "name": "Enable Perfects",
+        "type": "toggle",
+        "img": "images/settings/perfects.png",
+        "codes": "perfects"
+    },
+    {
+        "name": "Include Tempo Ups",
+        "type": "toggle",
+        "img": "images/settings/tempo_ups.png",
+        "codes": "include_tempo_ups"
+    } 
+]

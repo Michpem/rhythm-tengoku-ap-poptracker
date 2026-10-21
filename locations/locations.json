@@ -1,0 +1,1592 @@
+[
+    {
+        "name": "Stages",
+        "chest_opened_img": "images/locations/checked.png",
+        "children": [
+            {
+                "name": "Karate Man",
+                "access_rules": [
+                    "karate_man_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 79,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Karate Man 2",
+                "access_rules": [
+                    "karate_man_2_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 799,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "The Clappy Trio",
+                "access_rules": [
+                    "the_clappy_trio_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 79,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "The Snappy Trio",
+                "access_rules": [
+                    "the_snappy_trio_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 679,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Polyrhythm",
+                "access_rules": [
+                    "polyrhythm_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 439,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Polyrhythm 2",
+                "access_rules": [
+                    "polyrhythm_2_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 919,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Night Walk",
+                "access_rules": [
+                    "night_walk_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 439,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Night Walk 2",
+                "access_rules": [
+                    "night_walk_2_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 799,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Rhythm Tweezers",
+                "access_rules": [
+                    "rhythm_tweezers_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 79,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Rhythm Tweezers 2",
+                "access_rules": [
+                    "rhythm_tweezers_2_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 799,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Sick Beats",
+                "access_rules": [
+                    "sick_beats_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 199,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Bouncy Road",
+                "access_rules": [
+                    "bouncy_road_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 559,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Bouncy Road 2",
+                "access_rules": [
+                    "bouncy_road_2_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 919,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Ninja Bodyguard",
+                "access_rules": [
+                    "ninja_bodyguard_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 559,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Ninja Descendant",
+                "access_rules": [
+                    "ninja_descendant_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 799,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Sneaky Spirits",
+                "access_rules": [
+                    "sneaky_spirits_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 199,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Sneaky Spirits 2",
+                "access_rules": [
+                    "sneaky_spirits_2_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 919,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Samurai Slice",
+                "access_rules": [
+                    "samurai_slice_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 199,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Spaceball",
+                "access_rules": [
+                    "spaceball_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 79,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Spaceball 2",
+                "access_rules": [
+                    "spaceball_2_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 919,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Tap Trial",
+                "access_rules": [
+                    "tap_trial_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 559,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Tap Trial 2",
+                "access_rules": [
+                    "tap_trial_2_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 679,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Marching Orders",
+                "access_rules": [
+                    "marching_orders_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 79,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Marching Orders 2",
+                "access_rules": [
+                    "marching_orders_2_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 799,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Wizards Waltz",
+                "access_rules": [
+                    "wizards_waltz_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 319,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "Bunny Hop",
+                "access_rules": [
+                    "bunny_hop_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 319,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Fireworks",
+                "access_rules": [
+                    "fireworks_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 559,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Power Calligraphy",
+                "access_rules": [
+                    "power_calligraphy_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 439,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Toss Team",
+                "access_rules": [
+                    "toss_team_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 559,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Toss Team 2",
+                "access_rules": [
+                    "toss_team_2_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 919,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Rat Race",
+                "access_rules": [
+                    "rat_race_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 199,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Tram & Pauline",
+                "access_rules": [
+                    "tram_&_pauline_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 319,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Showtime",
+                "access_rules": [
+                    "showtime_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 319,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Space Dance",
+                "access_rules": [
+                    "space_dance_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 319,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Cosmic Dance",
+                "access_rules": [
+                    "cosmic_dance_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 679,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "RAPMEN",
+                "access_rules": [
+                    "rapmen_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 439,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "RAPWOMEN",
+                "access_rules": [
+                    "rapwomen_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 679,
+                        "y": 223
+                    }
+                ]
+            },
+            {
+                "name": "Quiz Show",
+                "access_rules": [
+                    "quiz_show_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 439,
+                        "y": 439
+                    }
+                ]
+            },
+            {
+                "name": "The Bon Odori",
+                "access_rules": [
+                    "the_bon_odori_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 199,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "The Bon Dance",
+                "access_rules": [
+                    "the_bon_dance_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 679,
+                        "y": 367
+                    }
+                ]
+            },
+            {
+                "name": "Remix 1",
+                "access_rules": [
+                    "remix_1_stage","remix_1_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 73,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 2",
+                "access_rules": [
+                    "remix_2_stage","remix_2_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 193,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 3",
+                "access_rules": [
+                    "remix_3_stage","remix_3_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 313,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 4",
+                "access_rules": [
+                    "remix_4_stage","remix_4_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 433,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 5",
+                "access_rules": [
+                    "remix_5_stage","remix_5_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 553,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 6",
+                "access_rules": [
+                    "remix_6_stage","remix_6_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 673,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 7",
+                "access_rules": [
+                    "remix_7_stage","remix_7_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 793,
+                        "y": 79
+                    }
+                ]
+            },
+            {
+                "name": "Remix 8",
+                "access_rules": [
+                    "remix_8_stage","remix_8_bundle"
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "chest_unopened_img": "images/locations/clear.png"
+                    },
+                    {
+                        "name": "OK",
+                        "chest_unopened_img": "images/locations/ok.png"
+                    },
+                    {
+                        "name": "Superb",
+                        "visibility_rules": ["superbs"],
+                        "chest_unopened_img": "images/locations/superb.png"
+                    },
+                    {
+                        "name": "Perfect",
+                        "visibility_rules": ["perfects"],
+                        "chest_unopened_img": "images/locations/perfect.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stages",
+                        "x": 913,
+                        "y": 79
+                    }
+                ]
+            }
+        ]
+    }
+]

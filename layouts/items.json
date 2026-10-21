@@ -1,0 +1,24 @@
+{
+  "shared_item_grid": {
+    "type": "itemgrid",
+    "margin": "0,0",
+    "item_size": 4,
+    "rows": [
+      ["remix_1_bundle","remix_2_bundle","remix_3_bundle","remix_4_bundle",
+      "remix_5_bundle","remix_6_bundle","remix_7_bundle","remix_8_bundle"],
+      ["remix_1_stage","remix_2_stage","remix_3_stage","remix_4_stage",
+      "remix_5_stage","remix_6_stage","remix_7_stage","remix_8_stage"],
+      ["the_clappy_trio_stage","the_bon_odori_stage","space_dance_stage","rapmen_stage",
+      "tap_trial_stage","tap_trial_2_stage","marching_orders_2_stage","sneaky_spirits_2_stage"],
+      ["spaceball_stage","sick_beats_stage","tram_&_pauline_stage","polyrhythm_stage",
+      "fireworks_stage","rapwomen_stage","night_walk_2_stage","spaceball_2_stage"],
+      ["marching_orders_stage","rat_race_stage","bunny_hop_stage","power_calligraphy_stage",
+      "toss_team_stage","cosmic_dance_stage","ninja_descendant_stage","polyrhythm_2_stage"],
+      ["rhythm_tweezers_stage","samurai_slice_stage","showtime_stage","night_walk_stage",
+      "ninja_bodyguard_stage","the_bon_dance_stage","rhythm_tweezers_2_stage","toss_team_2_stage"],
+      ["karate_man_stage","sneaky_spirits_stage","wizards_waltz_stage","quiz_show_stage",
+      "bouncy_road_stage","the_snappy_trio_stage","karate_man_2_stage","bouncy_road_2_stage"],
+      ["medal","beep","go_mode","","","","",""]
+    ]
+  }
+}
